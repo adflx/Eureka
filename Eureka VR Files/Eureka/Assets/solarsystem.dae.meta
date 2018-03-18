@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: 0deefc311027da94fa5b1c2e3a4a01c2
+timeCreated: 1484801497
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: +00sun
+    100002: +01mercury
+    100004: +02venus
+    100006: +03earth
+    100008: +04mars
+    100010: +05jupiter
+    100012: +06saturn
+    100014: +07uranus
+    100016: +08neptune
+    100018: +09pluto
+    100020: +rnd
+    100022: 00sun
+    100024: 01mercury
+    100026: 02venus
+    100028: 03earth
+    100030: 04mars
+    100032: 05jupiter
+    100034: 06saturn
+    100036: 07uranus
+    100038: 08neptune
+    100040: 09pluto
+    100042: Armature
+    100044: ModelMesh
+    100046: rnd
+    100048: root
+    100050: //RootNode
+    400000: +00sun
+    400002: +01mercury
+    400004: +02venus
+    400006: +03earth
+    400008: +04mars
+    400010: +05jupiter
+    400012: +06saturn
+    400014: +07uranus
+    400016: +08neptune
+    400018: +09pluto
+    400020: +rnd
+    400022: 00sun
+    400024: 01mercury
+    400026: 02venus
+    400028: 03earth
+    400030: 04mars
+    400032: 05jupiter
+    400034: 06saturn
+    400036: 07uranus
+    400038: 08neptune
+    400040: 09pluto
+    400042: Armature
+    400044: ModelMesh
+    400046: rnd
+    400048: root
+    400050: //RootNode
+    4300000: ModelMesh
+    9500000: //RootNode
+    13700000: ModelMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
